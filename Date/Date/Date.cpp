@@ -56,6 +56,8 @@ int main()
 {
 	CMydate omydate1(2018, 6, 4);
 	omydate1.display();
+	CMydate omydate2(2018, 6, 5);
+	omydate2.display();
     return 0;
 }
 
